@@ -1,0 +1,30 @@
+body {
+    background-color:greenyellow;
+}
+
+h1 {color:rgb(19, 8, 184);
+    text-align: center;
+}
+
+ol {
+    color:yellow
+}
+h2{
+    color:red
+   
+}
+ol id{
+    color:yellow
+}
+#hot-ones{
+    background-color:purple;
+    
+}
+#books{
+    background-color:rgb(3, 45, 51);
+}
+img{
+    width:200px;
+    height:200px;
+   }
+
